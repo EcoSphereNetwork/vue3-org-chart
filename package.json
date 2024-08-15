@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "panzoom": "^9.4.3",
-    "vue": "^3.2.0"
+    "vue": "^3.2.0",
+    "vue3-org-chart": "^0.2.4"
   }
 }
