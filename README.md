@@ -1,3 +1,13 @@
+🚧 Under Development 🚧
+
+This repository is currently a work in progress and is actively being developed. Please note that features, functionality, and documentation may change frequently as the project evolves.
+
+Feel free to explore, but be aware that the codebase may contain unfinished features and could be subject to significant changes.
+
+Stay tuned for updates!
+
+
+
 ## Vue3 Org Chart
 
 [![GitHub](https://img.shields.io/github/license/n1crack/vue3-org-chart)](https://github.com/n1crack/vue3-org-chart/blob/master/LICENSE) 
